@@ -1,0 +1,16 @@
+{
+    "name": "vanity-eth",
+    "version": "0.0.1",
+    "description": "Ethereum Address Generator",
+    "main": "src/index.mjs",
+    "repository": "git@github.com:leonrinkel/vanity-eth.git",
+    "author": "Leon Rinkel <leon@rinkel.me>",
+    "license": "MIT",
+    "private": true,
+    "scripts": {
+        "start": "node ."
+    },
+    "dependencies": {
+        "web3-eth-accounts": "^1.3.5"
+    }
+}
